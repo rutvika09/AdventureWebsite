@@ -94,15 +94,15 @@ section {
 }
 
 .bg1 {
-    background-image: url(/images/biking.jpg);
+    background-image: url(/AdventureWebsite/images/biking.jpg);
 }
 
 .bg2 {
-    background-image: url(/images/paragliding.jpg);
+    background-image: url(/AdventureWebsite/images/paragliding.jpg);
 }
 
 .bg3 {
-    background-image: url(/images/surfing.jpg);
+    background-image: url(/AdventureWebsite/images/surfing.jpg);
 }
 
 footer,
